@@ -62,6 +62,11 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<p align="center">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Satournine&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=26"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Satournine&layout=compact&langs_count=8&theme=dark&line_height=26"/>
+  </a>
+</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=satournine&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
