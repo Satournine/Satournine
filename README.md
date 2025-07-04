@@ -6,9 +6,6 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
-
-<h3 align="left">🛠 Languages and Tools</h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="python" />
@@ -39,7 +36,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="photoshop" />
 </p>
-###
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
